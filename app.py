@@ -420,7 +420,7 @@ try:
             
             while not done:
                 # Get raw frame for display
-                frame = test_env.render()
+                # frame = test_env.render()
                 frames_buffer.append(frame)
                 
                 # Display the current frame
