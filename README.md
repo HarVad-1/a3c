@@ -13,26 +13,25 @@ This project showcases an Asynchronous Advantage Actor-Critic (A3C) reinforcemen
 ☁️ Hosted on Streamlit Cloud with a lightweight, GPU-free deployment
 
 ⚠️ Deployment Notes
-Due to Streamlit Cloud's headless and resource-limited environment:
+  Due to Streamlit Cloud's headless and resource-limited environment:
 
-GUI-dependent libraries (e.g., cv2.imshow) are not used
+  GUI-dependent libraries (e.g., cv2.imshow) are not used
 
-Performance may vary compared to local machines with GPU support
+  Performance may vary compared to local machines with GPU support
 
 📦 Dependencies
-Key libraries used:
 
-streamlit
+   streamlit
 
-opencv-python
+  opencv-python
 
-numpy
+  numpy
 
-torch
+  torch
 
-gymnasium[atari]
+  gymnasium[atari]
 
-ale-py
+  ale-py
 
 Install them using : pip install -r requirements.txt
 
