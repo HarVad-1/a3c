@@ -2,3 +2,5 @@ streamlit
 opencv-python
 numpy
 torch
+gymnasium[atari]
+ale-py
