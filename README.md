@@ -36,4 +36,4 @@ This project showcases an Asynchronous Advantage Actor-Critic (A3C) reinforcemen
 Install them using : pip install -r requirements.txt
 
 🌐 Live Demo
-Check out the live version: a3c-reinforcement-learning.streamlit.app
+Check out the live version: https://a3c-reinforcement-learning.streamlit.app
